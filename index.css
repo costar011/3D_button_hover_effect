@@ -16,4 +16,8 @@
     width: 150px;
     height: 40px;
     font-size: 1.1rem;
+    font-weight: 700;
+    font-family: 'Source Serif Pro', serif;
+
+    cursor: pointer;
 }
