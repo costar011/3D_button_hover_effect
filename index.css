@@ -20,4 +20,13 @@
     font-family: 'Source Serif Pro', serif;
 
     cursor: pointer;
+    outline: none;
+    border: none;
+    transform: rotate(-30deg) skewX(25deg) translate(0, 0);
+
+    box-shadow: -10px 10px 10px rgba(0, 0, 0, 0.5);
+    background: #e76f6f;
+    color: #fff;
+    transition: all 0.4s;
+    position: relative;
 }
