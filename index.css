@@ -30,3 +30,10 @@
     transition: all 0.4s;
     position: relative;
 }
+
+.btn::before {
+    content: '';
+    position: absolute;
+
+    top: 5px;
+}
