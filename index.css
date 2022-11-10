@@ -43,3 +43,16 @@
     background: #795a5a;
     transform: rotate(0deg) skew(-45deg);
 }
+
+.btn::after {
+    content: '';
+    position: absolute;
+
+    top: 40px;
+    left: -5px;
+    width: 150px;
+    height: 10px;
+
+    background: #795a5a;
+    transform: rotate(0deg) skew(-45deg);
+}
